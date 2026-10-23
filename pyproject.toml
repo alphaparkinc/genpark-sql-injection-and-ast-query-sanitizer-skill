@@ -1,0 +1,7 @@
+[project]
+name = "genpark-sql-injection-and-ast-query-sanitizer-skill"
+version = "1.0.0"
+description = "Lexical SQL injection vulnerability scanner, AST query sanitizer, and parameterized statement verifier"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
